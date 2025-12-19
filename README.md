@@ -15,3 +15,5 @@ v0.3.0.2: change ".README" to "README" in the v0.3.0.1 (fix typo)
 v0.3.1: fixed the version selector and the can't find error
 
 v0.3.2: change "cant" to "can't" in the v0.2.5 (fix typo) and publish the v0.3.1 bug fix
+
+v0.3.3: change "https://website-i-think.vercel.app/" to "index.html" in the version v0.3.1 (optimized)
