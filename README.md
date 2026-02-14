@@ -18,4 +18,6 @@ v0.3.2 build 8: change "cant" to "can't" in the v0.2.5 (fix typo) and publish th
 
 v0.3.3 build 9: change "https://website-i-think.vercel.app/" to "index.html" in the version v0.3.1 (optimized)
 
-v0.3.4 build 10:abb duild number in front of each version
+v0.3.4 build 10: add duild number in front of each version
+
+v0.3.5 build 11: fix the can't click bug
