@@ -31,3 +31,5 @@ v0.3.5 build 11: fix the can't click bug
 v0.4 build 12: made dark mode
 
 v0.4.1 build 13: made dark mode and white mode toggle
+
+v0.4.2 build 14: fixed bugs and change position of the hyperlink
