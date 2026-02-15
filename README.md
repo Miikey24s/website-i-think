@@ -20,6 +20,14 @@ v0.3.3 build 9: change "https://website-i-think.vercel.app/" to "index.html" in 
 
 v0.3.4 build 10: add duild number in front of each version
 
+v0.3.5 build 11: fix the can't click 
+
+v0.4 build 12: dark mode
+
+v0.4.1 build 13: toggle between dark and white mode
+
 v0.3.5 build 11: fix the can't click bug
 
 v0.4 build 12: made dark mode
+
+v0.4.1 build 13: made dark mode and white mode toggle
